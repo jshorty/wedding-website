@@ -949,6 +949,20 @@
 		}
 	}
 
+	#banner2 {
+		background-color: #afd5e5;
+		text-align: center;
+		padding: 4.5em 0 4.5em 0;
+		margin-bottom: 0;
+
+		header {
+			> p {
+				margin-bottom: 0;
+			}
+		}
+	}
+
+
 /* Content */
 
 	#content {
